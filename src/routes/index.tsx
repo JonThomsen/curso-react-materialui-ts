@@ -22,4 +22,4 @@ export function AppRoutes() {
       <Route path="*" element={<Navigate to="/pagina-inicial"/>} />
     </Routes>
   );
-};
+}
